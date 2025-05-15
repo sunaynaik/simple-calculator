@@ -1,4 +1,4 @@
-from utils.operations import *
+from operations import *
 import os
 
 def menu():
